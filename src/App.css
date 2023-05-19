@@ -1,2 +1,16 @@
- 
- 
+.row {
+  width: 90%;
+   
+}
+.reg {
+  margin-left: 35px;
+
+}
+p{
+    margin-top: 20px;
+}
+.z {
+  font-weight: 600;
+  font-size: 20px;
+  
+}

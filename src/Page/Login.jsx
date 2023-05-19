@@ -7,7 +7,7 @@ function Login() {
   return (
     <>
       <Header />
-      <h1>LogComponent</h1> <br />
+      <h1>LogCompont</h1> <br />
       <Link to="/Register">Register</Link>
       <p>hello</p>
       <Footer />
